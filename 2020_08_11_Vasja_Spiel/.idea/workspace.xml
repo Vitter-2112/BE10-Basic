@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ebb7bf4-afed-4cf7-8c78-13bc7b31363e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fx1jE3AHuVTmps6VQJRpXRUvbG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VasjaSpielTest.testVasjaSpiel_n17_m4_expct5">
+    <configuration name="VasjaSpielTest.testVasjaSpiel_n0_m1_expct0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2020_08_11_Vasja_Spiel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VasjaSpielTest" />
+      <option name="METHOD_NAME" value="testVasjaSpiel_n0_m1_expct0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VasjaSpielTest.testVasjaSpiel_n17_m4_expct5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2020_08_11_Vasja_Spiel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VasjaSpielTest" />
+      <option name="METHOD_NAME" value="testVasjaSpiel_n17_m4_expct5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VasjaSpielTest.testVasjaSpiel_n1_m0_expct0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2020_08_11_Vasja_Spiel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VasjaSpielTest" />
+      <option name="METHOD_NAME" value="testVasjaSpiel_n1_m0_expct0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VasjaSpielTest.testVasjaSpiel_n4_m1_expct1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2020_08_11_Vasja_Spiel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VasjaSpielTest" />
+      <option name="METHOD_NAME" value="testVasjaSpiel_n4_m1_expct1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VasjaSpielTest.testVasjaSpiel_n4_m1_expct2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2020_08_11_Vasja_Spiel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VasjaSpielTest" />
+      <option name="METHOD_NAME" value="testVasjaSpiel_n4_m1_expct2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VasjaSpielTest.testVasjaSpiel_n17_m4_expct5" />
+        <item itemvalue="JUnit.VasjaSpielTest.testVasjaSpiel_n1_m0_expct0" />
+        <item itemvalue="JUnit.VasjaSpielTest.testVasjaSpiel_n0_m1_expct0" />
+        <item itemvalue="JUnit.VasjaSpielTest.testVasjaSpiel_n4_m1_expct2" />
+        <item itemvalue="JUnit.VasjaSpielTest.testVasjaSpiel_n4_m1_expct1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ebb7bf4-afed-4cf7-8c78-13bc7b31363e" name="Default Changelist" comment="" />
+      <created>1597145062434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597145062434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
